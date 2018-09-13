@@ -100,7 +100,7 @@ Agregar comandos
 ================
 Para agregar comandos debe seguir los siguientes pasos:
 * Crear un archivo dentro de la carpeta "commands"
-* Escribir el codigo siguiendo la definicion de la libria: http://click.pocoo.org/5/. 
+* Escribir el codigo siguiendo la definicion de la libreria: http://click.pocoo.org/5/. 
 
 Codigo ejemplo 
 --------------
