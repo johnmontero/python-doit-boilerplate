@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: do-it
+Version: 0.0.1
+Summary: DoIt - Hazlo
+Home-page: https://github.com/johnmontero/sga-iot-sub
+Author: do-it
+Author-email: do-it [at] gmail.com
+License: MIT
+Description: DoIt
+Keywords: do,it,task
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Utilities
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 2.7

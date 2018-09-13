@@ -1,0 +1,13 @@
+bin/do-it
+do_it/__init__.py
+do_it/doit.py
+do_it.egg-info/PKG-INFO
+do_it.egg-info/SOURCES.txt
+do_it.egg-info/dependency_links.txt
+do_it.egg-info/not-zip-safe
+do_it.egg-info/requires.txt
+do_it.egg-info/top_level.txt
+do_it/commands/__init__.py
+do_it/commands/version.py
+do_it/utils/__init__.py
+do_it/utils/config.py
